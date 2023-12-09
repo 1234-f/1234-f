@@ -1,4 +1,7 @@
 ### Hi there! I'm Istiak👋
+<div align="center">
+<a href="https://ibb.co/s9K9rzd"><img src="https://i.ibb.co/YBcBGwF/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://nonprofitlight.com/sd/dakota-dunes/cnos-foundation'>cnos dakota dunes</a><br />
+</div>
 
 I'm Istiak Ahmed Sarker, a passionate junior web developer with expertise in the MERN stack. Currently delving into Java and exploring the exciting world of blockchain.
 
