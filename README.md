@@ -16,17 +16,7 @@ Feel free to connect and let's create something amazing together! 💻🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    [![HTML](https://skillicons.dev/icons?icon=html&theme=light)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?icon=css&theme=light)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?icon=javascript&theme=light)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?icon=nodejs&theme=light)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?icon=firebase&theme=light)](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?icon=tailwind&theme=light)](https://skillicons.dev)
-[![React.js](https://skillicons.dev/icons?icon=react&theme=light)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?icon=mongodb&theme=light)](https://skillicons.dev)
-[![Express.js](https://skillicons.dev/icons?icon=express&theme=light)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?icon=java&theme=light)](https://skillicons.dev)
-
+    [![My Skills](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
   </a>
 </p>
 
