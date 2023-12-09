@@ -14,7 +14,7 @@ I'm Istiak Ahmed Sarker, a passionate junior web developer with expertise in the
 
 Feel free to connect and let's create something amazing together! 💻🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,react,nextjs,nodejs,express,mongodb,java)](https://skillicons.dev)
 
 
 ## 📈 Current Stats
