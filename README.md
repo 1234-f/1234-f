@@ -10,3 +10,5 @@ I'm Istiak Ahmed Sarker, a passionate junior web developer with expertise in the
 - ⚡ Fun fact: I love experimenting with new coding languages and frameworks!
 
 Feel free to connect and let's create something amazing together! 💻🚀
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=istiakahmedsarker&theme=radical" alt="GitHub Streak" /></a>
